@@ -1,5 +1,5 @@
 import "dotenv/config";
-import {keypair58Promise} from './keypair';
+import {keypair58Promise} from './generate-keypair';
 
 import {
     Connection,
